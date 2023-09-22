@@ -1,9 +1,9 @@
-##Hello 👋 I am a software engineer. 🧑🏻‍💻
-###Passionate in Teaching 👨🏼‍🏫
+<h1>Hello 👋 I am a software engineer. 🧑🏻‍💻 </h1>
+<h2>Passionate in Teaching 👨🏼‍🏫 </h2>
 
-📫 htoowaiyan.dev@gmail.com
+<h4>📫 htoowaiyan.dev@gmail.com </h4>
 
-##Languages and tools
+<h3>Languages and tools</h3>
 
 <p align="left"> 
 <img src="./Tech Logo SVG/html-5-logo-svgrepo-com.svg"   alt="drawing" width="50"/>
