@@ -1,5 +1,5 @@
 <h1>Hello 👋 I am a software engineer. 🧑🏻‍💻 </h1>
-<h2>Passionate in Teaching 👨🏼‍🏫 </h2>
+<h2>Coding is love. 👨🏼‍🏫 </h2>
 
 <h4>📫 htoowaiyan.dev@gmail.com </h4>
 
@@ -34,3 +34,5 @@
 
 <img src="./Tech Logo SVG/github-svgrepo-com.svg"   alt="drawing" width="50"/>
 </p>
+
+![](https://komarev.com/ghpvc/?username=h2waiyan)
